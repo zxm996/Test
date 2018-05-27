@@ -1,0 +1,313 @@
+/*文字标题*/
+@media (max-width: 749px){
+	.section2-bt2{
+		display: block;
+	}
+}
+/*section3时光轴*/
+@media (max-width: 600px) {
+
+	.cntl-bar {
+		left:auto;
+		right: 37px;
+	}
+
+	.cntl-content {
+		width:80%;
+		float:none;
+	}
+	.cntl-state:nth-child(2n+2) .cntl-content {
+		margin-right:0%;
+		float:none;
+	}
+
+	.cntl-image {
+		width:80%;
+	}
+
+	.cntl-state:nth-child(2n+1) .cntl-image {
+		float:none;
+	}
+
+	.animate .cntl-content {
+		margin-left: 2%;
+	}
+
+	.cntl-icon {
+		left: auto;
+		right: 0;
+	}
+
+}
+/*.section5攻城狮介绍*/
+@media (max-width:1345px){
+	.pe-thumbs{
+		height: 595px;
+	}
+	.pe-thumbs li img{
+		width: 142px;
+	}
+}
+@media (max-width:1306px){
+	.pe-thumbs{
+		height: 594px;
+	}
+	.pe-thumbs li img{
+		width: 184.1px;
+	}
+}
+@media (max-width:1280px){
+	.pe-thumbs{
+		height: 594px;
+	}
+	.pe-thumbs li img{
+		width: 188px;
+	}
+}
+@media (max-width:1244px){
+	.pe-thumbs{
+		height: 594px;
+	}
+	.pe-thumbs li img{
+		width: 186px;
+	}
+}
+
+@media (max-width:1081px){
+	.pe-thumbs{
+		height: 595px;
+	}
+	.pe-thumbs li img{
+		width: 186px;
+	}
+}
+@media (max-width:1024px){
+	.pe-thumbs{
+		height: 595px;
+	}
+	.pe-thumbs li img{
+		width: 186px;
+	}
+}
+@media (max-width:966px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 177.2px;
+	}
+}
+@media (max-width:830px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 177.2px;
+	}
+}
+@media (max-width:768px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 177px;
+	}
+}
+@media (max-width:757px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 172px;
+	}
+}
+@media (max-width:754px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 170px;
+	}
+}
+@media (max-width:733px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 166px;
+	}
+}
+@media (max-width:719px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 163px;
+	}
+}
+@media (max-width:708px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 160px;
+	}
+}
+@media (max-width:702px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 158px;
+	}
+}
+@media (max-width:694px){
+	.pe-thumbs{
+		height:789px;
+	}
+	.pe-thumbs li img{
+		width: 156px;
+	}
+}
+@media (max-width:680px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 152px;
+	}
+}
+@media (max-width:671px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 150px;
+	}
+}
+@media (max-width:644px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 144px;
+	}
+}
+@media (max-width:628px){
+	.pe-thumbs{
+		height: 789px;
+	}
+	.pe-thumbs li img{
+		width: 140px;
+	}
+}
+@media (max-width:610px){
+	.pe-thumbs{
+		height: 790px;
+	}
+	.pe-thumbs li img{
+		width: 124px;
+	}
+}
+@media (max-width:537px){
+	.pe-thumbs{
+		height: 790px;
+	}
+	.pe-thumbs li img{
+		width: 116px;
+	}
+}
+@media (max-width:528px){
+	.pe-thumbs{
+		height: 985px;
+	}
+	.pe-thumbs li img{
+		width: 146px;
+	}
+}
+@media (max-width:503px){
+	.pe-thumbs{
+		height: 985px;
+	}
+	.pe-thumbs li img{
+		width: 142px;
+	}
+}
+@media (max-width:492px){
+	.pe-thumbs{
+		height: 985px;
+	}
+	.pe-thumbs li img{
+		width: 136px;
+	}
+}
+@media (max-width:472px){
+	.pe-thumbs{
+		height: 985px;
+	}
+	.pe-thumbs li img{
+		width: 130px;
+	}
+}
+@media (max-width:455px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 190px;
+	}
+}
+@media (max-width:425px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 187px;
+	}
+}
+@media (max-width:412px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 186px;
+	}
+}
+@media (max-width:376px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 167px;
+	}
+}
+@media (max-width:375px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 167px;
+	}
+}
+@media (max-width:360px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 160px;
+	}
+}
+@media (max-width:320px){
+	.pe-thumbs{
+		height: 1375px;
+	}
+	.pe-thumbs li img{
+		width: 140px;
+	}
+}
+/*section6关于我们*/
+@media (max-width: 1024px){
+	.company-img{
+		margin-bottom: 20px;
+	}
+}
